@@ -1,118 +1,123 @@
-Organismo,Acrónimo,,,
-Universidad Complutense de Madrid,UCM,,,
-Universidad de Granada,UGR,,,
-Universidad de Barcelona,UB,,,
-Universidad Nacional de Educación a Distancia U.N.E.D,UNED,,,
-Universidad de Santiago de Compostela,USC,,,
-Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC),CSIC,,,
-Universidad Autónoma de Barcelona,UAB,,,
-Universidad de Sevilla,US ,,,
-Universidad de Salamanca,USAL,,,
-Universidad de Alicante,UA ,,,
-Universidad de Málaga,UMA,,,
-Universidad de Navarra,UNAV,,,
-Universidad de A Coruña,UDA,,,
-Universidad de Valencia,UV,,,
-Universidad de Castilla-La Mancha,UCLM,,,
-Universidad Carlos III de Madrid,UC3M,,,
-Universidad de Murcia,UM ,,,
-Universidad de Zaragoza,UNIZAR,,,
-Universidad de La Laguna,ULL,,,
-Universidad de Las Palmas de Gran Canaria,ULGCF,,,
-Universitat Politècnica de València,UPV,,,
-Universitat Pompeu Fabra,UPF,,,
-Universidad de Alcalá,UAH,,,
-Universitat Oberta de Catalunya,UOC,,,
-Universidad Rey Juan Carlos,URJC,,,
-Universidad Autónoma de Madrid,UAM,,,
-Universidad de Valladolid,Uva,,,
-Universidad de Jaén,UJA,,,
-Universidad de León,Ule,,,
-Universidad del País Vasco,UPV/EHU,,,
-Universidad Internacional de la Rioja,UNIR,,,
-Universidad de Cádiz,UCA,,,
-Universidad de Huelva,UHU,,,
-Universidad de Oviedo,UO ,,,
-Universidad de Córdoba,UNC,,,
-Universidade de Vigo,UVIGO,,,
-Universidad de Extremadura,UEX,,,
-Universidad Pablo de Olavide,UPO,,,
-Universidad de Cantabria,UC,,,
-Universidad Miguel Hernández de Elche,UMH,,,
-Institut Català d'Arqueologia Clàssica,ICAC,,,
-Universitat Jaume I de Castellón,UJI,,,
-Universidad de Girona,UdG,,,
-Università di Bologna,UNIBO,,,
-Fundación Ignacio Larramendi,FHL,,,
-Universidad San Jorge,USJ,,,
-Universitat Central de Catalunya,UCC,,,
-Universidad Pompeu Fabra,UPF,,,
-Universidad Europea de Madrid,UEM,,,
-Universitat de Lleida,UdL,,,
-Universidad de La Rioja,URJC,,,
-Universidad Fernando III,UF3,,,
-Biblioteca de Catalunya,BC,,,
-Universidad Pública de Navarra,UPNA,,,
-Consorci de Serveis Universitaris de Catalunya (CSUC),CSUC,,,
-Universidad a Distancia de Madrid,UDIMA,,,
-University of Kentucky,UK,,,
-Universidad Católica de Ávila,UCAV,,,
-Universidad Francisco de Vitoria,UFV,,,
-Biblioteca de Navarra,BN ,,,
-Universidad Ramón Llull,URL,,,
-FUNDACIÓN CONJUNTO PALEONTOLÓGICO DE TERUEL,FD,,,
-Università degli Studi di Catania,UniCT,,,
-Instituto Catalán de Arqueología Clásica,ICAC,,,
-Universidad Alfonso X El Sabio,UAX,,,
-University of Miami,UM,,,
-Universidad Católica de Valencia S. Vicente M.,UCV,,,
-Universidad de Breslavia,UWr,,,
-Universidad Internacional de Andalucía,UNIA,,,
-Universidad Politécnica de Cartagena,UPCT,,,
-Biblioteca Mestre Martí Tauler de Rubí,BMMT,,,
-Fundación Escritura(s),FE,,,
-Instituto Cervantes,IC ,,,
-Universitat Politècnica de Catalunya,UPC,,,
-Universidad Antonio de Nebrija,NEBRIJA,,,
-Universidad Católica San Antonio de Murcia (UCAM),UCAM,,,
-Universidad de Burgos,Ubu,,,
-Universidad de Vic,Uvic,,,
-Universidad Internacional de Cataluña,UIC,,,
-Universidad Politécnica de Cataluña,UPC,,,
-Biblioteca Nacional de España (BNE),BNE,,,
-Universidad Rovira i Virgili,URV,,,
-Universitat Abat Oliba CEU,UAO,,,
-Museo Aragonés de Paleontología,MAP,,,
-Universidad Politécnica de Madrid,UPM,,,
-Biblioteca Pública del Estado,BPE,,,
-Fundación Juan March,FJM,,,
-Museu Arqueològic i Etnogràfic Soler Blasco,MAESB,,,
-Universitat Politècnica de València.,UPV,,,
-Universidad de París,SU,,,
-Universidad Internacional Menéndez Pelayo UIMP,UIMP,,,
-Centro Universitario Villanueva,CUV,,,
-Universidad San Pablo C.E.U.,USP-CEU,,,
-I.E.S Generalife,IESG,,,
-Universitat de las Illes Balears,UIB,,,
-Patrimonio Nacional,PN,,,
-Universidad Camilo José Cela,UCJC,,,
-Archivo Histórico Nacional,AHN,,,
-Universidad Pontificia Comillas,CIHS,,,
-Consejería de Educación,CE,,,
-Universidade de Coimbra,UC,,,
-IE Universidad,IE,,,
-Stockholm University,SU,,,
-Universität Würzburg,JMU,,,
-Universidad Cardenal Herrera - CEU,UCH-CEU,,,
-Universidad Europea Miguel de Cervantes,UEMC,,,
-Universidad Mondragon Unibertsitatea,MU,,,
-Berlin-Brandenburgische Akademie der Wissenschaften,BBAW,,,
-Universidad Pontificia de Salamanca,UPSA,,,
-Consejería de Educación de la Junta de Castilla y León,JCYL,,,
-Universidade de Lisboa,UL,,,
-IES Dionisio Aguado,IESDA,,,
-Universitat de València,UV,,,
-Telefónica I+D,TID,,,
-Université Paris 8,UP8,,,
-Universidad de Almería,UAL,,,
-Universidad de Deusto,UDE,,,
+Organismo,Acrónimo
+Universidad Complutense de Madrid,UCM
+Universidad de Granada,UGR
+Universidad de Barcelona,UB
+Universidad Nacional de Educación a Distancia U.N.E.D,UNED
+Universidad de Santiago de Compostela,USC
+Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC),CSIC
+Universidad Autónoma de Barcelona,UAB
+Universidad de Sevilla,US 
+Universidad de Salamanca,USAL
+Universidad de Alicante,UA 
+Universidad de Málaga,UMA
+Universidad de Navarra,UNAV
+Universidad de A Coruña,UDA
+Universidad de Valencia,UV
+Universidad de Castilla-La Mancha,UCLM
+Universidad Carlos III de Madrid,UC3M
+Universidad de Murcia,UM 
+Universidad de Zaragoza,UNIZAR
+Universidad de La Laguna,ULL
+Universidad de Las Palmas de Gran Canaria,ULGCF
+Universitat Politècnica de València,UPV
+Universitat Pompeu Fabra,UPF
+Universidad de Alcalá,UAH
+Universitat Oberta de Catalunya,UOC
+Universidad Rey Juan Carlos,URJC
+Universidad Autónoma de Madrid,UAM
+Universidad de Valladolid,Uva
+Universidad de Jaén,UJA
+Universidad de León,Ule
+Universidad del País Vasco,UPV/EHU
+Universidad Internacional de la Rioja,UNIR
+Universidad de Cádiz,UCA
+Universidad de Huelva,UHU
+Universidad de Oviedo,UO 
+Universidad de Córdoba,UNC
+Universidade de Vigo,UVIGO
+Universidad de Extremadura,UEX
+Universidad Pablo de Olavide,UPO
+Universidad de Cantabria,UC
+Universidad Miguel Hernández de Elche,UMH
+Institut Català d'Arqueologia Clàssica,ICAC
+Universitat Jaume I de Castellón,UJI
+Universidad de Girona,UdG
+Università di Bologna,UNIBO
+Fundación Ignacio Larramendi,FHL
+Universidad San Jorge,USJ
+Universitat Central de Catalunya,UCC
+Universidad Pompeu Fabra,UPF
+Universidad Europea de Madrid,UEM
+Universitat de Lleida,UdL
+Universidad de La Rioja,URJC
+Universidad Fernando III,UF3
+Biblioteca de Catalunya,BC
+Universidad Pública de Navarra,UPNA
+Consorci de Serveis Universitaris de Catalunya (CSUC),CSUC
+Universidad a Distancia de Madrid,UDIMA
+University of Kentucky,UK
+Universidad Católica de Ávila,UCAV
+Universidad Francisco de Vitoria,UFV
+Biblioteca de Navarra,BN 
+Universidad Ramón Llull,URL
+FUNDACIÓN CONJUNTO PALEONTOLÓGICO DE TERUEL,FD
+Università degli Studi di Catania,UniCT
+Instituto Catalán de Arqueología Clásica,ICAC
+Universidad Alfonso X El Sabio,UAX
+University of Miami,UM
+Universidad Católica de Valencia S. Vicente M.,UCV
+Universidad de Breslavia,UWr
+Universidad Internacional de Andalucía,UNIA
+Universidad Politécnica de Cartagena,UPCT
+Biblioteca Mestre Martí Tauler de Rubí,BMMT
+Fundación Escritura(s),FE
+Instituto Cervantes,IC 
+Universitat Politècnica de Catalunya,UPC
+Universidad Antonio de Nebrija,NEBRIJA
+Universidad Católica San Antonio de Murcia (UCAM),UCAM
+Universidad de Burgos,Ubu
+Universidad de Vic,Uvic
+Universidad Internacional de Cataluña,UIC
+Universidad Politécnica de Cataluña,UPC
+Biblioteca Nacional de España (BNE),BNE
+Universidad Rovira i Virgili,URV
+Universitat Abat Oliba CEU,UAO
+Museo Aragonés de Paleontología,MAP
+Universidad Politécnica de Madrid,UPM
+Biblioteca Pública del Estado,BPE
+Fundación Juan March,FJM
+Museu Arqueològic i Etnogràfic Soler Blasco,MAESB
+Universitat Politècnica de València.,UPV
+Universidad de París,SU
+Universidad Internacional Menéndez Pelayo UIMP,UIMP
+Centro Universitario Villanueva,CUV
+Universidad San Pablo C.E.U.,USP-CEU
+I.E.S Generalife,IESG
+Universitat de las Illes Balears,UIB
+Patrimonio Nacional,PN
+Universidad Camilo José Cela,UCJC
+Archivo Histórico Nacional,AHN
+Universidad Pontificia Comillas,CIHS
+Consejería de Educación,CE
+Universidade de Coimbra,UC
+IE Universidad,IE
+Stockholm University,SU
+Universität Würzburg,JMU
+Universidad Cardenal Herrera - CEU,UCH-CEU
+Universidad Europea Miguel de Cervantes,UEMC
+Universidad Mondragon Unibertsitatea,MU
+Berlin-Brandenburgische Akademie der Wissenschaften,BBAW
+Universidad Pontificia de Salamanca,UPSA
+Consejería de Educación de la Junta de Castilla y León,JCYL
+Universidade de Lisboa,UL
+IES Dionisio Aguado,IESDA
+Universitat de València,UV
+Telefónica I+D,TID
+Université Paris 8,UP8
+Universidad de Almería,UAL
+Universidad de Deusto,UDE
+UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,USC
+UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA,UNED
+UNIVERSIDADE DA CORUNA,UDA
+UNIVERSITAT POMPEU FABRA CCT,UPF
+CENTRO DE VISION POR COMPUTADOR,CVC
