@@ -1,0 +1,5 @@
+pip>=19.2.3
+squarify>=0.4.3
+pandas>=1.0.3
+numpy==1.18.4
+
