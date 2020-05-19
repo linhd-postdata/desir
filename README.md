@@ -1,5 +1,14 @@
-# desir
+# Mapping digital humanities in Spain - 1993-2019
 
+In order to provide the global community of scholars working in the field of Digital Humanities with a greater understanding of the current Spanish scenario, LINHD (Laboratorio de Innovación de Humanidades Digitales - UNED) promoted, in 2019, a research study on the evolution of Digital Humanities in Spain over the last 25 years approximately. The research was conducted in the framework of the H2020 DARIAH ERIC Sustainability Refined (DESIR) project.
+
+This repository contains:
+
+- the collected data, in three different datasets (researchers, projects and digital resources);
+charts and tables used to analyse collected data, written in Python as Jupyter Notebooks.
+- You can download a full release of this repository at https://github.com/linhd-postdata/desir/releases
+
+List of charts:
 - Fig1. Data sources presented as a treemap chart, weighted according to their contribution to the researcher entity: [file](https://github.com/linhd-postdata/desir/blob/master/Fig.%201.%20Data%20sources%20%20contribution%20to%20the%20researcher%20entity..ipynb)
 - Fig2. Data sources contribution to project entity: [file](https://github.com/linhd-postdata/desir/blob/master/Fig.%202.%20Data%20sources%20contribution%20to%20project%20entity.ipynb)
 - Fig3. Data sources presented as a treemap chart, weighted according to their contribution to the resource entity: [file](https://github.com/linhd-postdata/desir/blob/master/Fig.%203.%20Data%20sources%20contribution%20to%20the%20resource%20entity.ipynb)
