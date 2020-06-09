@@ -2,10 +2,9 @@
 Credits
 =======
 
-Development Lead
-----------------
+* Maurizio Toscano <maurizio.toscano@gmail.com>
 
-* Aitor Díaz Medina <aitodiaz@pas.uned.es>
+* Aitor Díaz <adiazm@scc.uned.es>
 
 Contributors
 ------------
