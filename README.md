@@ -9,13 +9,18 @@ charts and tables used to analyse collected data, written in Python as Jupyter N
 - You can download a full release of this repository at https://github.com/linhd-postdata/desir/releases
 
 List of charts:
-- Fig1. Data sources presented as a treemap chart, weighted according to their contribution to the researcher entity: [file](notebooks/Fig01. Data sources  contribution to the researcher entity.ipynb)
-- Fig2. Data sources contribution to project entity: [file](https://github.com/linhd-postdata/desir/blob/master/Fig.%202.%20Data%20sources%20contribution%20to%20project%20entity.ipynb)
-- Fig3. Data sources presented as a treemap chart, weighted according to their contribution to the resource entity: [file](https://github.com/linhd-postdata/desir/blob/master/Fig.%203.%20Data%20sources%20contribution%20to%20the%20resource%20entity.ipynb)
-- Fig4. Disciplinary backgrounds of researchers working in Digital Humanities: [file](https://github.com/linhd-postdata/desir/blob/master/Fig4.%20Disciplinary%20backgrounds%20of%20researchers.ipynb)
-- Fig5. Comparison among disciplinary backgrounds of researchers and projects: [file](https://github.com/linhd-postdata/desir/blob/master/Fig5.%20disciplinary%20backgrounds%20of%20researchers%20and%20projects%20.ipynb)
-- Fig11. Distribution of projects according to funding received: [file](https://github.com/linhd-postdata/desir/blob/master/Fig10.%20Distribution%20of%20projects%20according%20to%20funding%20received.ipynb)
-- Fig12. Number of research projects and total funding across the whole analysed period (1993-2019): [file](https://github.com/linhd-postdata/desir/blob/master/Fig11.%20Number%20of%20research%20projects%20and%20total%20funding%20across%20the%20whole%20analysed%20period.ipynb)
-- Fig13. Founders according to number of projects: [file](https://github.com/linhd-postdata/desir/blob/master/Fig12.%20Founders%20according%20to%20number%20of%20projects.ipynb)
-- Fig14. Founders according to total funding: [file](https://github.com/linhd-postdata/desir/blob/master/Fig14.%20Founders%20according%20to%20total%20funding.ipynb)
-- Fig15. Scatter plot of research centres by number of projects and total funding obtained during the whole analysed period (1993-2019): [file](https://github.com/linhd-postdata/desir/blob/master/Fig14.%20Scatter%20plot.ipynb)
+- [Fig01. Data sources contribution to the researcher entity](notebooks/Fig01.%20Data%20sources%20%20contribution%20to%20the%20researcher%20entity.ipynb)
+- [Fig02. Data sources contribution to project entity](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig02.%20Data%20sources%20contribution%20to%20project%20entity.ipynb)
+- [Fig03. Data sources contribution to the resource entity](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig03.%20Data%20sources%20contribution%20to%20the%20resource%20entity.ipynb)
+- [Fig04. Disciplinary backgrounds of researchers](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig04.%20Disciplinary%20backgrounds%20of%20researchers.ipynb)
+- [Fig05. Disciplinary backgrounds of researchers and projects](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig05.%20Disciplinary%20backgrounds%20of%20researchers%20and%20projects.ipynb)
+- [Fig06. Researchers classified according to their main research topics](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig06.%20Researchers%20classified%20according%20to%20their%20main%20research%20topics.ipynb)
+- [Fig09. Relative weight of each department in the nine main research centres](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig09.%20Relative%20weight%20of%20each%20department%20in%20the%20nine%20main%20research%20centres.ipynb)
+- [Fig11. Distribution of projects according to funding received](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig11.%20Distribution%20of%20projects%20according%20to%20funding%20received.ipynb)
+- [Fig12. Number of research projects and total funding received during the period](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig12.%20Number%20of%20research%20projects%20and%20total%20funding%20received%20during%20the%20period.ipynb)
+- [Fig13. Funding agencies according to number of projects](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig13.%20Funding%20agencies%20according%20to%20number%20of%20projects.ipynb)
+- [Fig14. Funding agencies according to total funding](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig14.%20Funding%20agencies%20according%20to%20total%20funding.ipynb)
+- [Fig15. Scatter plot of research centres by number of projects and total funding](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig15.%20Scatter%20plot%20of%20research%20centres%20by%20number%20of%20projects%20and%20total%20funding.ipynb)
+- [Fig16. Geographical distribution of funding divided according to the three phases](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig16.%20Geographical%20distribution%20of%20funding%20divided%20according%20to%20the%20three%20phases.ipynb)
+- [Fig17. Digital resources sorted by publishing date](https://github.com/linhd-postdata/desir/blob/master/notebooks/Fig15.%20Scatter%20plot%20of%20research%20centres%20by%20number%20of%20projects%20and%20total%20funding.ipynb)
+
